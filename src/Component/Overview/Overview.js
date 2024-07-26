@@ -32,8 +32,8 @@ const Overview = () => {
                             <h3>Overview</h3>
                         </div>
                         <div className="overview-detail">
-                            <p>Sobha 106 Gurgaon is a new housing estate by Sobha Limited, that is widely known company in the field of housing industry. This project is surrounded by cover hence it is found in a relatively quiet environment. Sobha 106 Gurgaon stands to provide a comfortable and luxurious lifestyle for people residing in it. Now it is the right time to know more about Sobha 106 Gurgaon in a simple language.                            </p>
-                            <p>Sobha 106 Gurgaon property is developed with concepts of modern day architecture. The features of the buildings include; The building structures are fashionable and firm. The strategy is tailored on optimising on natural light and fresh air infiltration. This means that the apartments are bright with adequate fresh air circulating in the rooms. High-quality materials make sure that the homes that they will be constructing is very strong and safe. </p>
+                            <p>SOBHA 106 Gurgaon is not just an address where you live, but it is a home in the true sense where you can prosper. The project provides decent sized apartments that are also planned to accommodate a range of sizes and compositions of a family. The look and feel of each apartment gives enough comfort and sophistication to the people who live there.</p>
+                            <p>In addition to that, the location of SOBHA 106 Gurgaon offers more benefits to the intended users. It is located in a strategic position in relation to schools, hospitals, shops, and other necessary amenities as well as transport. This makes it fit the families that are seeking a place to live in that will offer easy access to all the basic needs in their daily lives. </p>
                         </div>
                         <div className="overview-category">
                                 <ReactOwlCarousel

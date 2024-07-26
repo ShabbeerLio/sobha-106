@@ -30,7 +30,7 @@ const Footer = (props) => {
                     <div className="footer-item">
                     </div>
                     <div className="footer-item">
-                        <p>Plot No. 6, Karma Lakelands, NH-8, Sector 103, Gurugram, Haryana 122002</p>
+                        <p>Sobha Sector 106 , Gurgaon</p>
                     </div>
                     <div className="footer-item">
                         {/* <p>info@godrejjardiniaa.com</p> */}

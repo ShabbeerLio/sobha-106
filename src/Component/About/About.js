@@ -18,9 +18,9 @@ const About = (props) => {
                 <div className="about-items">
                     <div className="about-left">
                         <div className="about-detail">
-                            <h3>About Sobha 106 Gurgaon at Karma Lakelands Sec 80, Gurugram</h3>
-                            <p>Sobha 106 Gurgaon stands as a testament to the fusion of visionary ideals and a deep appreciation for nature's splendor. It's a collaboration between two stalwarts, Sobha Limited and Karma Lakelands, melding their expertise to create an unparalleled living experience. Nestled within the sprawling 270-acre (1.09 million sq. meter) biodiverse paradise of Karma Lakelands, Sobha 106 Gurgaon emerges as an oasis of tranquility and sophistication.</p>
-                            <p> Spanning over 31.28 acres (126590.52 sq. mtr.), this eco-luxe haven beckons to the discerning few who seek a harmonious blend of urban comforts and natural abundance. Phase 1 of Sobha 106 Gurgaon, spanning 14.81 acres (59964.16 sq. mtr.), is a masterful embodiment of this ethos. Here, amidst lush greenery and panoramic views of forests and golf courses, stand five towers exuding elegance and serenity. Each tower is meticulously designed to offer residents not just a home, but a sanctuary where they can immerse themselves in the embrace of nature while enjoying the conveniences of modern living.</p>
+                            <h3>About Sobha 106 Gurgaon</h3>
+                            <p>SOBHA 106 Gurgaon is newage venture in the Brigade of Beautiful Homes; an aesthetically designed residential cum commercial complex in the heart of Gurgaon. It provides the families with luxurious and comfortable accommodation standard. The structure is anchored with today’s architectural concepts and use of better quality materials to provide a pleasant and comfortable living for all the occupants.</p>
+                            <p> Life at SOBHA 106 Gurgaon is peaceful and secure due to the ability of the investment from the houses. The community has well-anticipated areas for various uses in addition to sufficient grounds and space that give it the befitting name of a naturalist. At SOBHA 106 Gurgaon, right from fine dining restaurants to the necessity, everything is available with its excellent infrastructure and services.</p>
                         </div>
                         <div className="about-button">
                             <Link to='tel: +919999999999'>

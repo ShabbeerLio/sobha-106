@@ -13,8 +13,8 @@ import Disclaimer from "./Pages/Disclaimer/Disclaimer";
 
 function App() {
 
-  const title = "Sobha Sector 106 Gurgaon Residences By Sobha Limited"
-  const description = "Sobha Sector 106 Gurgaon is a brand-new residential development that offers 3, 4 & 5 BHK luxurious residences with classy amenities By Sobha Limited."
+  const title = "Sobha 106 Gurgaon"
+  const description = "Sobha 106 Gurgaon is a brand-new residential development that offers 3 & 5 BHK luxurious Apartments and Studios with classy amenities By Sobha Limited."
 
   // remove inspect and copy element
   //  useEffect(() => {

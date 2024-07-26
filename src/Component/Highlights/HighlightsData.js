@@ -1,35 +1,35 @@
 const HighlightsData = [
     {
         id: 1,
-        detail: "Low rise density and all Karma Golf Facing Apartments.",
+        detail: "Modern Architecture: Their design is contemporary thus provides the desired outcome of stylish and attractive building for inhabitants.",
     },
     {
         id: 2,
-        detail: "Previously, Club: A Luxurious Clubhouse Measuring up to 70000 sq. Ft. A great place with world class facilities.",
+        detail: "Green Spaces: It also has ample of parks and gardens therefore the environment within the community is shady and inviting.",
     },
     {
         id: 3,
-        detail: "Total 5 High Rise Tower having G+43 Floor and 5 Wing of G+43 Floor.",
+        detail: "Spacious Apartments: Just as described the apartments are spacious and organized in a way that would favor families of all capacity.",
     },
     {
         id: 4,
-        detail: "Situated at 31 acres of the Land Parcel; Total Karma Lakeland comprises of 270 acres of the land.",
+        detail: "High-Quality Materials: They are constructed with all the attributes of a good home such as dexterity with the material used.",
     },
     {
         id: 5,
-        detail: "1st Phase Launching will have 524 Apartments with benefits.",
+        detail: "Prime Location: The place is situated in a densely populated area of gurgaon and they are surrounded by basic neccessities.",
     },
     {
         id: 6,
-        detail: "Operational 9 Hole Golf",
+        detail: "Excellent Facilities: This means that the residents can indulge in swimming, exercise in the gym, clubhouse among other facilities.",
     },
     {
         id: 7,
-        detail: "Ground With Viewing Gallery.",
+        detail: "Secure Environment: The community is secure with a gate that is opened and closed throughout the day and night to reduce on insecurity among the residents.",
     },
     {
         id: 8,
-        detail: "The establishment is a fully functional signature club resort.",
+        detail: "Convenient Living: This is a advantages because the property is close to schools, hospitals and shopping centers.",
     },
 ]
 
