@@ -18,7 +18,7 @@ const About = (props) => {
                 <div className="about-items">
                     <div className="about-left">
                         <div className="about-detail">
-                            <h3>About Sobha 106 Gurgaon</h3>
+                            <h3>About Sector 106, Gurugram, Haryana </h3>
                             <p>SOBHA 106 Gurgaon is newage venture in the Brigade of Beautiful Homes; an aesthetically designed residential cum commercial complex in the heart of Gurgaon. It provides the families with luxurious and comfortable accommodation standard. The structure is anchored with today’s architectural concepts and use of better quality materials to provide a pleasant and comfortable living for all the occupants.</p>
                             <p> Life at SOBHA 106 Gurgaon is peaceful and secure due to the ability of the investment from the houses. The community has well-anticipated areas for various uses in addition to sufficient grounds and space that give it the befitting name of a naturalist. At SOBHA 106 Gurgaon, right from fine dining restaurants to the necessity, everything is available with its excellent infrastructure and services.</p>
                         </div>
