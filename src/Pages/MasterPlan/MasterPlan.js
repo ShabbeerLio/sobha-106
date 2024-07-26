@@ -60,9 +60,9 @@ const MasterPlan = (props) => {
         <div className='MasterPlan'>
             <div className='MasterPlan-main'>
                 <div className="Page-title">
-                    <h1>Sobha Aranya Master Plan</h1>
+                    <h1>Sobha 106 Gurgaon Master Plan</h1>
                 </div>
-                <img src={masterimg} alt="Sobha Aranya" />
+                <img src={masterimg} alt="Sobha 106 Gurgaon" />
             </div>
         </div>
     )

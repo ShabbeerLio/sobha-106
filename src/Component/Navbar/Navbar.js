@@ -70,7 +70,7 @@ const Navbar = (props) => {
                                         to="/"
                                         // onClick={() => handleLinkClick('/')}
                                     >
-                                        <img src={Logo} alt="grandthum bhutani" />
+                                        <img src={Logo} alt="Sobha 106 Gurgaon" />
                                     </Link>
                                 </div>
                             </div>

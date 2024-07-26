@@ -18,7 +18,7 @@ const HGallery = () => {
     return (
         <div className='HGallery'>
             <div className='HGallery-main'>
-                <h3>Sobha Aranya's Gallery</h3>
+                <h3>Sobha 106 Gurgaon's Gallery</h3>
                 <div className="hgallery-box">
                     {GalleryData.slice(0, 8).map((item) => (
                         <img src={item.cover} alt={item.alttag} onClick={formIsOpen} />

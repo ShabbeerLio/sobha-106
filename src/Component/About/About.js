@@ -9,7 +9,7 @@ const About = (props) => {
     return (
         <div className="aboutUs">
             <div className="about-title">
-                <h1>Sobha Aranya</h1>
+                <h1>Sobha 106 Gurgaon</h1>
                 {/* <p>RERA No.: HARERA/GGM/808/540/2024/35 </p> */}
                 <span>3 & 4 BHK APARTMENTS & STUDIOS</span>
                 <h4>European-Inspired Architecture</h4>
@@ -18,9 +18,9 @@ const About = (props) => {
                 <div className="about-items">
                     <div className="about-left">
                         <div className="about-detail">
-                            <h3>About Sobha Aranya at Karma Lakelands Sec 80, Gurugram</h3>
-                            <p>Sobha Aranya stands as a testament to the fusion of visionary ideals and a deep appreciation for nature's splendor. It's a collaboration between two stalwarts, Sobha Limited and Karma Lakelands, melding their expertise to create an unparalleled living experience. Nestled within the sprawling 270-acre (1.09 million sq. meter) biodiverse paradise of Karma Lakelands, Sobha Aranya emerges as an oasis of tranquility and sophistication.</p>
-                            <p> Spanning over 31.28 acres (126590.52 sq. mtr.), this eco-luxe haven beckons to the discerning few who seek a harmonious blend of urban comforts and natural abundance. Phase 1 of Sobha Aranya, spanning 14.81 acres (59964.16 sq. mtr.), is a masterful embodiment of this ethos. Here, amidst lush greenery and panoramic views of forests and golf courses, stand five towers exuding elegance and serenity. Each tower is meticulously designed to offer residents not just a home, but a sanctuary where they can immerse themselves in the embrace of nature while enjoying the conveniences of modern living.</p>
+                            <h3>About Sobha 106 Gurgaon at Karma Lakelands Sec 80, Gurugram</h3>
+                            <p>Sobha 106 Gurgaon stands as a testament to the fusion of visionary ideals and a deep appreciation for nature's splendor. It's a collaboration between two stalwarts, Sobha Limited and Karma Lakelands, melding their expertise to create an unparalleled living experience. Nestled within the sprawling 270-acre (1.09 million sq. meter) biodiverse paradise of Karma Lakelands, Sobha 106 Gurgaon emerges as an oasis of tranquility and sophistication.</p>
+                            <p> Spanning over 31.28 acres (126590.52 sq. mtr.), this eco-luxe haven beckons to the discerning few who seek a harmonious blend of urban comforts and natural abundance. Phase 1 of Sobha 106 Gurgaon, spanning 14.81 acres (59964.16 sq. mtr.), is a masterful embodiment of this ethos. Here, amidst lush greenery and panoramic views of forests and golf courses, stand five towers exuding elegance and serenity. Each tower is meticulously designed to offer residents not just a home, but a sanctuary where they can immerse themselves in the embrace of nature while enjoying the conveniences of modern living.</p>
                         </div>
                         <div className="about-button">
                             <Link to='tel: +919999999999'>
@@ -49,7 +49,7 @@ const About = (props) => {
                         </div>
                     </div>
                     <div className="about-right">
-                        <img className="image2" src={Aboutimg} alt="Sobha Aranya " />
+                        <img className="image2" src={Aboutimg} alt="Sobha 106 Gurgaon " />
                     </div>
                 </div>
             </div>

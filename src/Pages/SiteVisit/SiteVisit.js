@@ -59,11 +59,11 @@ const SiteVisit = (props) => {
         <div className='SiteVisit'>
             <div className='SiteVisit-main'>
                 <div className="Page-title">
-                    <h1>Intrested in Sobha Aranya</h1>
+                    <h1>Intrested in Sobha 106 Gurgaon</h1>
                 </div>
                 <div className="sitevisit-box">
                     <div className="sitevisit-item">
-                    <Form heading={"Book Your Site Visit"} btntxt={"Book A Site Visit"} />
+                    <Form heading={"Book Your Site Visit"} btntxt={"Enquire Now"} />
                     </div>
                 </div>
             </div>
