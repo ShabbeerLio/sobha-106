@@ -352,6 +352,10 @@
 }
 
 @media only screen and (max-width: 990px) {
+  .company-logo {
+    width: 10%;
+  }
+
   .nav-action {
     flex-flow: wrap;
   }
@@ -373,7 +377,10 @@
     right: -5%;
   }
 }
-@media only screen and (max-width: 540px) {
+@media only screen and (max-width: 680px) {
+  .company-logo {
+    width: 25%;
+  }
 
   .navBar {
     top: 0;

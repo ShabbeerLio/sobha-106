@@ -13,8 +13,8 @@ import Disclaimer from "./Pages/Disclaimer/Disclaimer";
 
 function App() {
 
-  const title = "Sobha 106 Gurgaon"
-  const description = "Sobha 106 Gurgaon is a brand-new residential development that offers 3 & 5 BHK luxurious Apartments and Studios with classy amenities By Sobha Limited."
+  const title = "Sobha Altus Gurgaon - Sobha 106 Gurgaon Floor Plan Price List Payment Plan"
+  const description = "SOBHA Altus Gurgaon is new age venture in the Brigade of Beautiful Homes; an aesthetically designed residential cum commercial complex in the heart of Gurgaon."
 
   // remove inspect and copy element
   //  useEffect(() => {
@@ -42,13 +42,13 @@ function App() {
         <Navbar />
         <Routes>
           <Route path="/" exact element={<Home title={title} descriptions={description} />} />
-          <Route path="/gallery" exact element={<Gallery title={title} descriptions={description} />} />
-          <Route path="/price-list" exact element={<PriceList title={title} descriptions={description} />} />
-          <Route path="/master-plan" exact element={<MasterPlan title={title} descriptions={description} />} />
-          <Route path="/floor-plans" exact element={<FloorPlan title={title} descriptions={description} />} />
-          <Route path="/location" exact element={<Location title={title} descriptions={description} />} />
-          <Route path="/site-visit" exact element={<SiteVisit title={title} descriptions={description} />} />
-          <Route path="/disclaimer" exact element={<Disclaimer title={title} descriptions={description} />} />
+          <Route path="/gallery" exact element={<Gallery title={"Gallery - Sobha Altus Gurgaon - Sobha 106 Gurgaon"} descriptions={"Gallery"} />} />
+          <Route path="/price-list" exact element={<PriceList title={"Price List - Sobha Altus Gurgaon - Sobha 106 Gurgaon"} descriptions={"Price List"} />} />
+          <Route path="/master-plan" exact element={<MasterPlan title={"Master Plan - Sobha Altus Gurgaon - Sobha 106 Gurgaon"} descriptions={"Master Plan"} />} />
+          <Route path="/floor-plans" exact element={<FloorPlan title={"Floor Plans - Sobha Altus Gurgaon - Sobha 106 Gurgaon"} descriptions={"Floor Plans"} />} />
+          <Route path="/location" exact element={<Location title={"Location - Sobha Altus Gurgaon - Sobha 106 Gurgaon"} descriptions={"Location"} />} />
+          <Route path="/site-visit" exact element={<SiteVisit title={"Site Visit - Sobha Altus Gurgaon - Sobha 106 Gurgaon"} descriptions={"Site Visit"} />} />
+          <Route path="/disclaimer" exact element={<Disclaimer title={"Disclaimer - Sobha Altus Gurgaon - Sobha 106 Gurgaon"} descriptions={"Disclaimer"} />} />
         </Routes>
         <Footer />
       </BrowserRouter>
